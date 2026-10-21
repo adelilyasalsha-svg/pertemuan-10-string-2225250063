@@ -35,12 +35,20 @@ python tugas/normalisasi_data_mahasiswa.py
 | BUDI | pmtk 01 | Budi, PMTK-01, B |
 | siti nur aisyah | kelas c | Siti Nur Aisyah, KELAS-C, SNA |
 
-**Status:** Isi setelah seluruh pengujian dilakukan.
+**Status:**
+| No. | Program | Status |
+|---|---|---|
+| 1 | `01_dasar_string.py` | Berhasil |
+| 2 | `02_indeks_slicing.py` | Berhasil |
+| 3 | `03_method_string.py` | Berhasil |
+| 4 | `04_bersihkan_teks.py` | Berhasil |
+| 5 | `05_split_join.py` | Berhasil |
+| 6 | `06_pencarian_kata.py` | Berhasil |
+| 7 | `normalisasi_data_mahasiswa.py` | Berhasil |
+
+**Keterangan:** Status di atas diisi *Berhasil* setelah setiap program dijalankan dan output-nya sesuai dengan hasil yang diharapkan.
+
 
 ## Refleksi
 
 Saya mempelajari penggunaan string untuk membersihkan dan mengolah teks. Saya memahami fungsi `strip()`, `title()`, `upper()`, `split()`, dan `join()`. Kesulitan yang ditemukan adalah menangani spasi berlebih dan huruf yang tidak konsisten. Masalah tersebut dapat diatasi dengan normalisasi teks sebelum data ditampilkan.
-
-## Sumber Bantuan
-
-Bahan Ajar Pertemuan 10: String dan Pengolahan Teks dalam Python.
